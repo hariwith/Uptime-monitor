@@ -1,0 +1,18 @@
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+.env
+
+# Django
+db.sqlite3
+staticfiles/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Editors and operating systems
+.vscode/
+.DS_Store
